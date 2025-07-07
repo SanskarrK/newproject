@@ -1,0 +1,2 @@
+sanskar = " hello"
+print(sanskar)
