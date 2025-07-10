@@ -14,3 +14,4 @@ elif (marks >= 40):
     print("You have just passed")
 else:
     print("You have failed")
+print("the end")    
