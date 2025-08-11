@@ -39,5 +39,6 @@ else:
     elif(computer == 0 and you == 0):
         print("It's a tie! Gun vs Gun.")
 
+
     else:
         print("Invalid input! Please enter 1, -1, or 0.")

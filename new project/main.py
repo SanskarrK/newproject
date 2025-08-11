@@ -1,0 +1,1 @@
+n = inter("enter a number")
